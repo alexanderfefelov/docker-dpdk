@@ -1,6 +1,6 @@
 # docker-dpdk
 
-Build mainstream version (see [settings.sh](settings.sh)):
+Build mainstream version (see [`settings.sh`](settings.sh)):
 
 ```bash
 ./build.sh
