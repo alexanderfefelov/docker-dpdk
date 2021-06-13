@@ -12,6 +12,7 @@ RUN apt-get -qq update \
        ca-certificates \
        libnuma-dev \
        python3-pip \
+       python3-pyelftools \
        python3-setuptools \
        wget \
        xz-utils \
